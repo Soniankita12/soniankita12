@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coading" width="400"src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **Ankitasoni2211104@gmail.com**
 
