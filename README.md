@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi 👋, I'm Ankita Soni</h1>
+<h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coading" width="400"src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
