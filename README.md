@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Ankitasoni2211104@gmail.com**
 
-- ⚡ Fun fact **I love tea**
+- ⚡ Fun fact **I love programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
